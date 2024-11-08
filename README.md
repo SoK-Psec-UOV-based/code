@@ -1,6 +1,6 @@
 # SoK: On the Physical Security of UOV-based Signature Schemes
 
-This repository contains auxiliary material for the paper: ["SoK: On the Physical Security of UOV-based Signature Schemes"](https://eprint.iacr.org/2023/335).
+This repository contains auxiliary material for the paper: ["SoK: On the Physical Security of UOV-based Signature Schemes"](https://eprint.iacr.org/2024/1818).
 
 Authors:
 - [Thomas Aulbach](https://www.uni-regensburg.de/informatics-data-science/qpc/team/thomas-aulbach/index.html)
